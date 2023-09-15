@@ -1,10 +1,10 @@
 <div align="center">
 <h1 align="center">
-<img src="https://github.com/alivemachine/Paiper/blob/04/ogthumb.png" />
-<br>smarter
+<br>Smarter
 </h1>
-<h3>◦ Code smarter, build better</h3>
-<h3>◦ Developed with the software and tools listed below.</h3>
+  <img src="https://github.com/alivemachine/smarter/blob/main/screenshot01.png" />
+<h3>Data Intelligence</h3>
+<h3>Developed with the software and tools listed below.</h3>
 
 <p><img width="100" src="https://alivemachine.io/image/fronthand/openai.png" alt="OpenAI logo" /></p>
 
@@ -31,7 +31,6 @@
 - [📒 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [⚙️ Features](#-features)
-- [📂 Project Structure](#project-structure)
 - [🧩 Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
 - [🤝 Contributing](#-contributing)
@@ -50,32 +49,21 @@ The project provides an HTML webpage that leverages the CABLES.js library to vis
 
 | Feature                | Description                                                                                             |
 | ---------------------- | ------------------------------------------------------------------------------------------------------- |
-| **⚙️ Architecture**     | The system follows a client-server architecture with an HTML webpage as the client and a backend server. |
-| **📖 Documentation**    | Limited documentation; the codebase lacks comprehensive documentation.                                    |
+| **⚙️ Architecture**     | The system follows a client-server architecture with an HTML webpage as the client and a backend server. |                                  |
 | **🔗 Dependencies**    | Relies on the CABLES.js library and possibly other external libraries.                                    |
 | **🧩 Modularity**      | The codebase organizes the system into separate files for different components.                          |
-| **✔️ Testing**          | No information available about testing strategies and tools.                                             |
-| **⚡️ Performance**     | No information available about system performance.                                                       |
-| **🔐 Security**        | No information available about security measures.                                                        |
 | **🔀 Version Control** | Git is used for version control.                                                                         |
-| **🔌 Integrations**    | Integrates with the CABLES.js library for visual patch generation.                                        |
-| **📶 Scalability**     | No information available about scalability.                                                              |
+| **🔌 Integrations**    | Integrates with the CABLES.js library for visual patch generation.                                        |                                                           |
 
 Please note that several categories lack information in the codebase, such as testing, performance, security, and scalability. It is essential to gather additional information or analyze the codebase further to have a more comprehensive understanding of these aspects.
 
 ---
 
 
-## 📂 Project Structure
-
-
-
-
----
 
 ## 🧩 Modules
 
-<details closed><summary>Root</summary>
+<details open><summary>Root</summary>
 
 | File                                                                       | Summary                                                                                                                                                                                                                                                                                                                                             |
 | ---                                                                        | ---                                                                                                                                                                                                                                                                                                                                                 |
