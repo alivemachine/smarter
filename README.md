@@ -95,23 +95,6 @@ git clone https://github.com/alivemachine/smarter
 cd smarter
 ```
 
-3. Install the dependencies:
-```sh
-`ℹ️  INSERT-DESCRIPTION`
-```
-
-### 🎮 Using smarter
-
-```sh
-`ℹ️  INSERT-DESCRIPTION`
-```
-
-### 🧪 Running Tests
-```sh
-`ℹ️  INSERT-DESCRIPTION`
-```
-
----
 
 
 ---
@@ -136,10 +119,5 @@ git push origin new-feature-branch
 ```
 7. Create a new pull request to the original project repository. In the pull request, describe the changes you've made and why they're necessary.
 The project maintainers will review your changes and provide feedback or merge them into the main branch.
-
----
-## 📄 License
-
-This project is licensed under the `ℹ️  INSERT-LICENSE-TYPE` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
 
 ---
